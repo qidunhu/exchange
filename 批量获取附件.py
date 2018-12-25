@@ -43,3 +43,4 @@ Email_Attachment('ceshi2@genecast.com.cn','XXXXXX','test','/Users/qi.dunhu/Deskt
 #4、File_path为要将附件保存到本地的路径
 
 #exchangelib库说明连接https://pypi.org/project/exchangelib/   https://github.com/ecederstrand/exchangelib
+#
